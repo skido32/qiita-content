@@ -4,8 +4,8 @@ tags:
   - JavaScript
   - QiitaEngineerFesta2024
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-06-14T07:50:56+09:00'
+id: d5c4ec87b75e880b4553
 organization_url_name: null
 slide: false
 ignorePublish: false
