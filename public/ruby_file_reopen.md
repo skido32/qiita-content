@@ -1,11 +1,11 @@
 ---
 title: ファイル操作の基礎：閉じたファイルオブジェクトと再オープン時のエラー
 tags:
-  - ruby
+  - Ruby
   - QiitaEngineerFesta2024
 private: false
-updated_at: ""
-id: null
+updated_at: '2024-06-30T11:12:39+09:00'
+id: 8ad03fc472d7953b6270
 organization_url_name: null
 slide: false
 ignorePublish: false
